@@ -1,6 +1,9 @@
 .TodoCounter {
-  font-size: 24px;
-  text-align: center;
-  margin: 0;
-  padding: 48px;
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+}
+.TodoCounter_loading {
+    opacity: 25%;
 }
