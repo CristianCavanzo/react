@@ -1,0 +1,32 @@
+.ChangeAlert-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #1e1e1f50;
+    z-index: 2;
+}
+.ChangeAlert-container {
+    position: fixed;
+    bottom: -10px;
+    left: -10px;
+    right: -10px;
+    padding: 34px;
+    background: #232323;
+}
+.ChangeAlert-container p {
+    text-align: center;
+    color: #fff;
+}
+.ChangeAlert-container button {
+    background: #92d8f9;
+    color: #232323;
+    border: none;
+    padding: 4px 8px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0px 5px 25px rgb(97 218 250 / 50%);
+}
